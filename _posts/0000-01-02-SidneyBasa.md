@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+meme "He who controls the meme's controls the universe!"
 Use the left arrow to go back!
